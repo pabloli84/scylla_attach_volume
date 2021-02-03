@@ -1,0 +1,4 @@
+__pycache__
+.vscode
+.venv
+*id_rsa*
